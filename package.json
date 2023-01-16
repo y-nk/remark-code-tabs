@@ -1,0 +1,21 @@
+{
+  "name": "remark-code-tabs",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "./index.js",
+    "./style.js",
+    "./style.css"
+  ],
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  },
+  "keywords": [],
+  "author": "julien barbay <julien.barbay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^4.1.1"
+  }
+}
