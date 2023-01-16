@@ -1,7 +1,7 @@
 import { parse } from "node:querystring";
 import { visit } from "unist-util-visit";
 
-import createStyle from "./style";
+import createStyle from "./style.js";
 
 function createTabs(tabs) {
   return {
