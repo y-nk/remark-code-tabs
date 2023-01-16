@@ -9,6 +9,7 @@
 .remark-code-tabs > label {
   display: flex;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .remark-code-tabs > label > [type=radio] {
