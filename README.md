@@ -32,7 +32,7 @@ When you wont't use docusaurus' plugin because you don't want/plan to add jsx/md
 
 ### Installation
 
-1. Install the plugin with `npm i remark-plugin-code-tabs`
+1. Install the plugin with `npm i remark-code-tabs`
 2. Import the plugin with `import remarkCodeTabs from 'remark-plugin-code-tabs'
 3. Add to your remark plugin stack `[remarkCodeTabs]`
 
